@@ -1,3 +1,3 @@
 # oliver-hurst.github.io
 
-this repostitory as for mt website whichh haas my portfolio on it
+this repostitory as for my website which has my portfolio on it
